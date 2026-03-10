@@ -10,7 +10,7 @@ currently heads-down on a few projects across agentic AI, market analysis, and d
 **what i'm working on**
 
 - 🔐 agentic AI security tooling
-- 📈 fundamental analysis for TSX / TSXV / CSE
+- 📈 fundamental analysis for TSX / TSXV
 - 🚩 feature flag infrastructure for SDLC pipelines
 - 💸 MT/MX payment message conversion
 
